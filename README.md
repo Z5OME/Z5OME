@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/z5ome" target="blank"><img src="https://img.shields.io/twitter/follow/z5ome?logo=twitter&style=for-the-badge" alt="z5ome" /></a> </p>
 
-- 🔭 I’m currently working on **Fivem Store**
+- 🔭 I’m currently working on **Fivem**
 
 - 🌱 I’m currently learning **Computer Science**
 
