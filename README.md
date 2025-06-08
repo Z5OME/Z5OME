@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [Fivem | Cybersecurity | etc...](Fivem | Cybersecurity | etc...)
 
-- 📫 How to reach me **zomedev5@gmail.com**
+- 📫 How to reach me **fahadalmahdi93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
